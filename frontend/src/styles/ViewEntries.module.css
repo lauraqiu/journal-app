@@ -1,0 +1,17 @@
+.container {
+    background-color: #F1DEDE ;
+    height: 100vh;
+    display:flex
+}
+.entryContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.entry {
+
+}

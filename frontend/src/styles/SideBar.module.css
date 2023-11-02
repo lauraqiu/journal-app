@@ -1,0 +1,27 @@
+.outContainer {
+    background-color: white;
+    width: 20%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.inContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 40%;
+    position: relative;
+    top: 10%;
+
+}
+/* .logo {
+    height: auto;
+    max-width: 100%;
+} */
+/* .img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto; 
+    width: auto; 
+} */

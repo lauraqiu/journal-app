@@ -1,0 +1,28 @@
+.container {
+    background-color: #F1DEDE ;
+    height: 100vh;
+    display:flex
+}
+.side {
+    left: 0;
+    top: 0
+}
+/* .saveContainer {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 20px;
+}  */
+.entryContainer {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 80%;
+    padding-top: 300px;
+}
+.styles {
+    flex-basis: auto;
+}
+.title {
+    font-size: 100px;
+    padding: 20px;
+}
